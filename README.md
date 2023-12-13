@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about computer science and design, 
 
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
-- LinkedIn: [Madhan Prasath]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/madhanprasath-d-076113249/))
+- LinkedIn: ([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/madhanprasath-d-076113249/))
 - Email: madhanprasath.dev@gmail.com
 - Portfolio: ((https://madhanprasath.netlify.app/))
 
