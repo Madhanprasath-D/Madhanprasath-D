@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madhan Prasath!
+# 👋 Hi, I'm Madhanprasath!
 
 Welcome to my GitHub profile! I'm passionate about computer science and design, with a focus on deep learning, GANs, and machine learning.
 
