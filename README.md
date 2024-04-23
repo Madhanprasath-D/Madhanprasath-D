@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Madhanprasath!
 
-Welcome to my GitHub profile! I'm passionate about computer science and design, with a focus on deep learning, GANs, and machine learning.
+Welcome to my GitHub profile! I'm passionate about computer science and design, with a focus on deep learning, machine learning and web development.
 
 ## 👀 I'm interested in...
 
